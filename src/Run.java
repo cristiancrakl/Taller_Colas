@@ -2,19 +2,21 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package taller_colas;
 
 /**
  *
  * @author crist
  */
-public class Taller_Colas {
+public class Run {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Launch the GUI
+        java.awt.EventQueue.invokeLater(() -> {
+            new Interfaz.Menu().setVisible(true);
+        });
     }
-    
+
 }
